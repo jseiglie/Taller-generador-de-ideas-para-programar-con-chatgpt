@@ -1,4 +1,4 @@
-# Workshop-generating-ideas-for-programming-with-chatgpt
+# Workshop generating ideas for programming with chatgpt
 
 
 Once again, with the help of 4 Geeks Academy, we bring you a workshop where the idea was to create an application that makes use of ChatGpt to generate ideas for applications to program ourselves. In other words, a solution to the typical "I don't know what to program" in order to continue practicing or growing our portfolios and, consequently, our skills.
