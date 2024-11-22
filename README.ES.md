@@ -1,24 +1,24 @@
-# Taller-generador-de-ideas-para-programar-con-chatgpt
+# Taller generador de ideas para programar con chatgpt
 
 
-Una vez más, de la mano de 4 Geeks Academy, traemos un taller donde la idea era crear una aplicación que haga uso de ChatGpt para generar ideas de aplicaciones para programarlas nosotros. Vamos, una solución al típico, no sé que programar para seguir practicando o haciendo crecer nuestros portfolios y por consecuente, nuestras destrezas.
+Una vez más, de la mano de 4 Geeks Academy, traemos un taller donde la idea era crear una aplicación que haga uso de ChatGpt para generar ideas de aplicaciones para programarlas nosotros. Vamos, una solución al típico, no sé que programar para seguir practicando o haciendo crecer nuestros portfolios y por consiguiente, nuestras destrezas.
 
-Para hacer la idea mas interesante, hemos añadido la opción para que el usuario pueda decidir relacionado con qué desea que se generen las ideas (por ejemplo, ideas relacionadas con aplicaciones utilitarias, cocina, etc) y la opción para generar una propuesta de código que estará en  el lenguaje o framework de programación que se haya seleccionado con anterioridad.
+Para hacer la idea más interesante, hemos añadido la opción para que el usuario pueda decidir relacionado con qué desea que se generen las ideas (por ejemplo, ideas relacionadas con aplicaciones utilitarias, cocina, etc) y la opción para generar una propuesta de código que estará en  el lenguaje o framework de programación que se haya seleccionado con anterioridad.
 
-La idea final y lo que realmente persigue el taller es potenciar y mostrar como se puede hacer uso de las herramientas de Inteligencia Artificial (en este caso, Github Copilot) para generar aplicaciones.
+La idea final y lo que realmente persigue el taller es potenciar y mostrar cómo se puede hacer uso de las herramientas de Inteligencia Artificial (en este caso, Github Copilot) para generar aplicaciones.
 
 
 
 ### Dependencias del proyecto:
 
- - NodeJs para iniciar nuestro proyecto (npx create-react-app)
- - Un API KEY activa de OpenAi 
+- NodeJs para iniciar nuestro proyecto (npx create-react-app)
+- Un API KEY activa de OpenAi
 
 
 
 ### Atención
 
- El proyecto se ha generado, como se ve en el video asociado, en un 99% de su totalidad haciendo uso de la Inteligencia Artificial (IA) Github Copilot 
+El proyecto se ha generado, como se ve en el video asociado, en un 99% de su totalidad haciendo uso de la Inteligencia Artificial (IA) Github Copilot
 
 
 
